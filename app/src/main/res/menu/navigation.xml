@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/game_menu"
+        android:icon="@drawable/baseline_games"
+        android:title="Game" />
+    <item
+        android:id="@+id/score_menu"
+        android:icon="@drawable/baseline_scoreboard"
+        android:title="Score" />
+
+    <item
+        android:id="@+id/setting_menu"
+        android:icon="@drawable/baseline_settings"
+        android:title="Settings" />
+</menu>
